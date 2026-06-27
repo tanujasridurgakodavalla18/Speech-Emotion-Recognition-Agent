@@ -32,5 +32,15 @@ This project is a Machine Learning based Speech Emotion Recognition system deplo
 ## 📦 Model
 The trained model is hosted and used within Hugging Face Spaces for live inference.
 
+🔗 Live Demo: https://huggingface.co/spaces/Tanujasridurga/speech-emotion-ai-agent
+
+## 📊 Project Outcome
+This system successfully classifies human speech emotions using machine learning and demonstrates end-to-end deployment using Hugging Face Spaces.
+
+## 📌 Key Learning
+- Feature extraction from audio
+- ML model deployment using Gradio
+- End-to-end AI project deployment
+
 ## 👩‍💻 Author
-Tanuja
+Tanuja Sridurga
