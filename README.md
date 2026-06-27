@@ -30,7 +30,7 @@ This project is a Machine Learning based Speech Emotion Recognition system deplo
 3. Get predicted emotion instantly
 
 ## 📦 Model
-The trained model is stored as `emotion_model.pkl`
+The trained model is hosted and used within Hugging Face Spaces for live inference.
 
 ## 👩‍💻 Author
 Tanuja
